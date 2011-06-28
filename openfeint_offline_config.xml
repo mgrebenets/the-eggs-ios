@@ -1,0 +1,58 @@
+<resources>
+<game_profile_page_info>
+  <has_leaderboards>true</has_leaderboards>
+  <has_ipurchase>false</has_ipurchase>
+  <short_name>The Eggs Pro</short_name>
+  <is_owned_by_local_player>true</is_owned_by_local_player>
+  <name>The Eggs Pro</name>
+  <has_chat_rooms>false</has_chat_rooms>
+  <has_challenges>false</has_challenges>
+  <suggestions_topic_id>106033</suggestions_topic_id>
+  <has_achievements>true</has_achievements>
+  <id>50043</id>
+  <has_featured_application>false</has_featured_application>
+</game_profile_page_info>
+<offline>
+  <leaderboards>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>50043</client_application_id>
+      <created_at>2010-01-23T17:32:01Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>152773</id>
+      <is_aggregate>false</is_aggregate>
+      <min_rank_score nil="true"></min_rank_score>
+      <name>Game I</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0000.00.00</start_version>
+      <updated_at>2010-01-23T17:32:01Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>50043</client_application_id>
+      <created_at>2010-01-23T17:32:48Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>152783</id>
+      <is_aggregate>false</is_aggregate>
+      <min_rank_score nil="true"></min_rank_score>
+      <name>Game II</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0000.00.00</start_version>
+      <updated_at>2010-01-23T17:32:48Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+  </leaderboards>
+</offline>
+
+</resources>
