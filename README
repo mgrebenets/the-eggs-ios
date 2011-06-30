@@ -2,9 +2,16 @@ the-eggs-ios
 
 the code of iOS game "The Eggs Pro" by i4nApps
 
+information regarding OpenFeint integration
+- OpenFeint sources are not part of this repo, you need to re-add them manually
+- used OpenFeint version is 2.4.2
+- the OpenFeint source code can be found in repo's Download section
+- unpack OpenFeint archive
+- remove OpenFeint group from the project
+- drag&drop OpenFeint.2.4.2/OpenFeint folder to project workspace
+- uncheck "copy files" checkbox and add sources to the project
+
 the code has not been touched for a long time, so it has a bunch of problems
-- the used open feint version is too old
-- open feint source code is included, feel free to remove it and write some manual on how to link it locally
 - lots of compiler warnings
 - some left-over images and code for 'DISKOTEKA_90' promotion
 
